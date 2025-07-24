@@ -64,11 +64,11 @@ This project focuses on predicting the **stress level** of individuals based on 
 ## 📌 How to Run Locally
 
 1. Clone the repository:
-   git clone https://github.com/your-username/stress-level-detection.git
+   ```bash
+   git clone https://github.com/Sowmya2244/Stress_Level_Detection.git
    cd stress-level-detection
-Install dependencies:
-pip install -r requirements.txt
-(Or individually: pandas, numpy, matplotlib, seaborn, scikit-learn)
-
-Run the notebook:
-jupyter notebook stress-level-detection.ipynb
+2. Install dependencies:
+   pip install -r requirements.txt
+   (Or individually: pandas, numpy, matplotlib, seaborn, scikit-learn)
+3. Run the notebook:
+   jupyter notebook stress-level-detection.ipynb
